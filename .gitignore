@@ -1,2 +1,4 @@
 *.feather
 mcns_fw_edge_comp.feather
+.DS_Store
+tri.pkl
